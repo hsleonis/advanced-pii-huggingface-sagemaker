@@ -1,5 +1,6 @@
 # Advanced PII detection and anonymization with Hugging Face Transformers and Amazon SageMaker
 
+Article: [https://www.philschmid.de/pii-huggingface-sagemaker](https://www.philschmid.de/pii-huggingface-sagemaker)
 
 repository [philschmid/advanced-pii-huggingface-sagemaker](https://github.com/philschmid/advanced-pii-huggingface-sagemaker)
 
